@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="language_release_year">%1$s - %2$s</string>
+    <string name="vote_count">(%1$s vote)</string>
+    <string name="vote_format">%1$s/ 10</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="icon_star">Icon Star</string>
+</resources>
