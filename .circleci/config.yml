@@ -8,7 +8,7 @@ orbs:
 jobs:
   build:
     docker:
-      - image: circleci/android:2022.04.1-jdk17 
+      - image: circleci/openjdk:17-jdk-buster
     steps:
       - checkout
       - restore_cache:
