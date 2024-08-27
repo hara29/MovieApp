@@ -1,1 +1,1 @@
-[![hara29](https://circleci.com/gh/hara29/MovieApp.svg?style=svg)](https://circleci.com/gh/hara29/MovieApp)
+[![hara29](https://circleci.com/gh/hara29/MovieApp.svg?style=shield)](https://circleci.com/gh/hara29/MovieApp)
